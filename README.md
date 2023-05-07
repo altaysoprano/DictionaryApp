@@ -6,7 +6,7 @@ It is designed with MVVM architecture and uses Coroutines, Room, Dagger-Hilt, Re
 
 ### Usage
 
-https://user-images.githubusercontent.com/37440249/231455745-fc345ecc-7c1f-4087-8212-684653ed6a18.mp4
+https://user-images.githubusercontent.com/37440249/231455745-fc345ecc-7c1f-4087-8212-684653ed6a18.mp4 
 
 
 
